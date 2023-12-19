@@ -1,4 +1,5 @@
 ## Hi there 👋
+Here you'll find projects that [shokapiku](https://github.com/shokapiku) and [tamanegicode](https://github.com/tamanegicode) have developed together.
 
 <!--
 
